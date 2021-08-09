@@ -1,0 +1,12 @@
+Download Repositories
+https://ftp.gnu.org/gnu/glibc/?C=M;O=A
+https://ffmpeg.org/releases/ffmpeg-snapshot-git.tar.bz2
+https://github.com/gcc-mirror/gcc/tags
+https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/
+https://www.gnupg.org/ftp/gcrypt/gnutls/
+https://bitbucket.org/mpyne/game-music-emu/downloads/
+https://docs.broadcom.com/docs-and-downloads/docs/support/crystalhd/crystalhd_linux_20100703.zip
+https://acoustid.org/chromaprint
+https://labs.xvid.com/source/
+https://code.videolan.org/videolan/x264
+https://www.videolan.org/developers/x265.html
