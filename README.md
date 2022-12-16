@@ -7,3 +7,5 @@ To combine the segments for a file, use the following command:
 ```bash
 cat ${base_file}_part_* > ${base_file}
 ```
+
+> Reviewed, 12/16/2022 michaelbeale-il
