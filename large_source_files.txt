@@ -1,8 +1,5 @@
-src/boost1.71_1.71.0.orig.tar.xz
-src/gcc-10_10.3.0.orig.tar.gz
-src/gcc-8_8.4.0.orig.tar.gz
-src/gcc-9_9.4.0.orig.tar.gz
-src/linux_5.4.0.orig.tar.gz
-src/llvm-toolchain-12_12.0.0.orig.tar.xz
-src/nss_3.49.1.orig.tar.gz
-src/openjdk-lts_11.0.18+10.orig.tar.gz
+src/gcc-10_10.2.1.orig.tar.xz
+src/gcc-9_9.3.0.orig.tar.gz
+src/linux_5.10.191.orig.tar.xz
+src/llvm-toolchain-11_11.0.1.orig.tar.xz
+src/openjdk-11_11.0.20+8.orig.tar.xz
