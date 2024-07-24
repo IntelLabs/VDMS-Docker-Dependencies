@@ -1,5 +1,3 @@
-src/gcc-10_10.2.1.orig.tar.xz
-src/gcc-9_9.3.0.orig.tar.gz
-src/linux_5.10.216.orig.tar.xz
-src/llvm-toolchain-11_11.0.1.orig.tar.xz
-src/openjdk-11_11.0.23+9.orig.tar.xz
+src/gcc-12_12.2.0.orig.tar.gz
+src/linux_6.1.94.orig.tar.xz
+src/openjdk-17_17.0.11+9.orig.tar.xz
