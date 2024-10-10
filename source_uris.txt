@@ -1,6 +1,7 @@
 alsa-lib
 apparmor
 avahi
+babeltrace
 binutils
 build-essential
 bzip2
@@ -15,6 +16,7 @@ cyrus-sasl2
 dbus
 dpkg
 e2fsprogs
+elfutils
 ffmpeg
 fonts-dejavu
 freetype
@@ -22,6 +24,7 @@ fribidi
 game-music-emu
 gcc-12
 gcc-defaults
+gdb
 gdbm
 gdk-pixbuf
 git
@@ -83,15 +86,20 @@ perl
 pixman
 pkgconf
 procps
+python3.11
+readline
 rpcsvc-proto
 rtmpdump
+sensible-utils
 shared-mime-info
 shine
+source-highlight
 speex
 sqlite3
 srt
 svt-av1
 twolame
+ucf
 x264
 x265
 xvidcore
