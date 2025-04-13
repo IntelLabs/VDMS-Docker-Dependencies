@@ -44,9 +44,11 @@ krb5
 lame
 lcms2
 libbluray
+libcap2
 libdatrie
 libdc1394
 liberror-perl
+libev
 libjsoncpp
 libnsl
 libopenmpt
@@ -62,7 +64,9 @@ libtirpc
 libudfread
 libunwind
 libusb-1.0
+libuv1
 libva
+libwebsockets
 libxcrypt
 libzip
 libzstd
@@ -100,6 +104,7 @@ srt
 svt-av1
 twolame
 ucf
+uncrustify
 x264
 x265
 xvidcore
