@@ -1,3 +1,10 @@
+> [!WARNING]
+> **THIS PROJECT IS ARCHIVED**  
+> Intel will not provide or guarantee development of or support for this project,
+> including but not limited to, maintenance, bug fixes, new releases or updates.
+>
+> Patches to this project are no longer accepted by Intel.
+
 # VDMS-Docker-Dependencies
 This repository is a read-only repository dedicated to archive [source code](/source_uris.txt) used in [VDMS Docker image](https://hub.docker.com/r/intellabs/vdms) to be compliant with the open source license obligations.
 
